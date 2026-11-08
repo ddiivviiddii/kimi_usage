@@ -1,0 +1,6 @@
+{
+  "interval_minutes": 5,
+  "alert_threshold": 85,
+  "sound_alert": true,
+  "environment": {}
+}
