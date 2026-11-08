@@ -5,7 +5,7 @@ A lightweight menu bar application that tracks your [Kimi Code](https://www.kimi
 
 ## Setup & Run
 
-1. **Prerequisite:** Ensure the Kimi Code CLI is installed and available in your `PATH` (the `kimi-code-usage` command must be executable). I preferred to install it via `pipx`.
+1. **Prerequisite:** Ensure the [kimi-code-usage](https://github.com/Golden0Voyager/kimi-code-usage) CLI is installed and available in your `PATH` (the `kimi-code-usage` command must be executable). I preferred to install it via `pipx`.
 2. **Download:** Grab the latest version from the Releases, or build it from source.
 3. **Configuration:** Launch the app, open **Settings**, and paste your API key (`sk-kimi-...`). 
 4. **macOS Gatekeeper Note:** Since the app is currently unsigned, macOS may block it on the first launch. To allow it, right-click the app icon and select **Open**, or navigate to **System Settings → Privacy & Security** and click **Open Anyway**.
@@ -23,6 +23,7 @@ A lightweight menu bar application that tracks your [Kimi Code](https://www.kimi
 
 * Built with **PySide6** (Qt for Python).
 * Compiled and packaged using **Nuitka** for standalone performance.
+* Minimum macOS 26 version (Silicon only)
 
 ## Security Attention
 
