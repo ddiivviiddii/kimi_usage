@@ -2,6 +2,10 @@
 
 A lightweight menu bar application that tracks your [Kimi Code](https://www.kimi.ai/) CLI usage quota, ensuring you never get caught off guard by hitting session limits mid-task.
 
+<p align="center">
+  <img src="screen.png" alt="Kimi Usage Monitor screenshot" width="400">
+</p>
+
 
 ## Setup & Run
 
